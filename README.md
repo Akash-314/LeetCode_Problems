@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akash-314/LeetCode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akash-314/LeetCode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akash-314/LeetCode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akash-314/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Akash-314/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
