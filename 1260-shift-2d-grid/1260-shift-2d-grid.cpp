@@ -6,16 +6,12 @@ public:
         vector<vector<int>> ans(m, vector<int>(n));
         vector<int> v;
         int a = 0, b = 0;
-        for (int i = 0; i < k; i++) {
-            b++;
-            if (b == n) {
-                b = 0;
-                a++;
-            }
-            if (a == m) {
-                a = 0;
-            }
-        }
+        int total = m * n;
+        k %= total;
+
+        int pos = k;
+        a = pos / n;
+        b = pos % n;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 v.push_back(grid[i][j]);
@@ -35,8 +31,8 @@ public:
             if (j == n - 1) {
                 i++;
                 j = 0;
-            }
-            else j++;
+            } else
+                j++;
         }
         return ans;
     }
