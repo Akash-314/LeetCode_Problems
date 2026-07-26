@@ -1,29 +1,29 @@
 class Solution {
 public:
     string lexSmallestAfterDeletion(string s) {
-        vector<int> cnt(26, 0);
-
-        for (char c : s)
-            cnt[c - 'a']++;
-
-        string stk;
-
-        for (char c : s) {
-            while (!stk.empty() &&
-                   stk.back() > c &&
-                   cnt[stk.back() - 'a'] > 1) {
-                cnt[stk.back() - 'a']--;
-                stk.pop_back();
+        
+        int n = s.size();
+        vector<int> count(26, 0);
+        for(int i = 0; i < n; i++) {
+            count[s[i]-'a']++;
+        }
+        string ans = "";
+        for(int i = 0; i < n; i++) {
+            char ch = s[i];
+            while(!ans.empty() && ch < ans.back() && count[ans.back()-'a'] > 1) {
+                count[ans.back()-'a']--;
+                ans.pop_back();
             }
-
-            stk.push_back(c);
+            
+            ans += ch;
         }
 
-        while (!stk.empty() && cnt[stk.back() - 'a'] > 1) {
-            cnt[stk.back() - 'a']--;
-            stk.pop_back();
+        while(!ans.empty() && count[ans.back()-'a'] > 1) {
+            count[ans.back()-'a']--;
+            ans.pop_back();
         }
 
-        return stk;
+        return ans;
+
     }
 };
