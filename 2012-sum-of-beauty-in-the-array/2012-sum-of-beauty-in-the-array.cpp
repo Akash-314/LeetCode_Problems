@@ -4,8 +4,8 @@ public:
         int n = nums.size();
         vector<int> pre(n);
         vector<int> suf(n);
-        pre[0] = -1;
-        suf[n-1] = 1e6;
+        pre[0] = nums[0];
+        suf[n-1] = nums[n-1];
         for(int i = 1; i < n; i++){
             pre[i] = max(pre[i-1], nums[i-1]);
             suf[n-i-1]=min(suf[n-i],nums[n-i]);
@@ -16,7 +16,7 @@ public:
                 ans += 2;
             }else if(nums[i] > nums[i-1] and nums[i] < nums[i+1]){
                 ans += 1;
-            }else continue;
+            }
         }
         return ans;
     }
