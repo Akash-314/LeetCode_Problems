@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Akash-314/LeetCode_Problems/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/Akash-314/LeetCode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Design
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Matrix
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akash-314/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
