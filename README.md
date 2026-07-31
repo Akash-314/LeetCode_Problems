@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/0133-clone-graph) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akash-314/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akash-314/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akash-314/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
