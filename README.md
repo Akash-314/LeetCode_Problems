@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash-314/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
