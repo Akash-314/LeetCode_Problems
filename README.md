@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash-314/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Akash-314/LeetCode_Problems/tree/master/1291-sequential-digits) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash-314/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash-314/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
