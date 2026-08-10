@@ -1,22 +1,25 @@
 class Solution {
 public:
     int dp[100001][2];
-    bool f(int n, bool turn){
-        if(n == 0 and turn) return false;
-        if(n == 0 and !turn) return true;
-        if(dp[n][turn] != -1) return dp[n][turn];
+    bool f(int n, bool turn) {
+        if (n == 0 and turn)
+            return false;
+        if (n == 0 and !turn)
+            return true;
+        if (dp[n][turn] != -1)
+            return dp[n][turn];
         bool ans = false;
-        if(turn){
+        if (turn) {
             ans = false;
-            for(int i = 1; i*i <= n; i++){
-                ans |= f(n - (i*i), false);
+            for (int i = 1; i * i <= n; i++) {
+                ans |= f(n - (i * i), false);
             }
-        }else{
+        } else {
             ans = true;
-            for(int i = 1; i*i <= n; i++){
-                ans &= f(n - (i*i), true);
+            for (int i = 1; i * i <= n; i++) {
+                ans &= f(n - (i * i), true);
             }
-        } 
+        }
         return dp[n][turn] = ans;
     }
     bool winnerSquareGame(int n) {
