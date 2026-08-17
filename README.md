@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akash-314/LeetCode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash-314/LeetCode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash-314/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akash-314/LeetCode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akash-314/LeetCode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
