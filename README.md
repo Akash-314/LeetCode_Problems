@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akash-314/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akash-314/LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
