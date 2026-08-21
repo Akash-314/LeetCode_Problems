@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akash-314/LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akash-314/LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
