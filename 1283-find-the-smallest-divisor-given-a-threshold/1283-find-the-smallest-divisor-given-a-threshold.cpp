@@ -6,6 +6,7 @@ public:
         ll res = 0;
         for(int i = 0; i < n; i++){
             res += (nums[i] + div - 1) / div;
+            //ceil(a/b) = (a + b - 1) / b;
         }
         return res <= t;
     }
