@@ -6,13 +6,10 @@ public:
         vector<int> v;
         unordered_set<int> st;
         for(int x : nums) st.insert(x);
-        for(int i = 1; i <= mx; i++){
-            v.push_back(k * i);
+        for(int i = 1; i <= mx+1; i++){
+            if(st.count(i * k)) st.erase(i*k);
+            else return i*k;
         }
-        for(int i = 0; i < v.size(); i++){
-            if(st.count(v[i])) st.erase(v[i]);
-            else return v[i];
-        }
-        return (v.size()+1) * k;
+        return (mx+1) * k;
     }
 };
