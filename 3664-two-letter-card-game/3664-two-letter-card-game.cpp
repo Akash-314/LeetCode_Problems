@@ -29,17 +29,16 @@ public:
         }
         int p1 = min(m1 / 2, m1 - c1);
         int p2 = min(m2 / 2, m2 - c2);
-        int base = p1 + p2;
+        int b = p1 + p2;
         int rem1 = m1 - 2 * p1;
         int rem2 = m2 - 2 * p2;
         int rem = rem1 + rem2;
         int ans = 0;
-        for(int d = 0; d <= base; d++) {
-            int pairs = base - d;
-            int available = rem + 2 * d;
-            ans = max(ans, pairs + min(cnt, available));
+        for(int d = 0; d <= b; d++) {
+            int p = b - d;
+            int a = rem + 2 * d;
+            ans = max(ans, p + min(cnt, a));
         }
-
         return ans;
     }
 };
