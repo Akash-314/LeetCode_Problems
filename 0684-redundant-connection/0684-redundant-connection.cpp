@@ -26,8 +26,10 @@ public:
         for (int i = 0; i < n; i++) {
             int x = edges[i][0];
             int y = edges[i][1];
-            if(find(parent, x) == find(parent, y)) return {x,y};
-            else Union(parent, rank, x, y);
+            if (find(parent, x) == find(parent, y))
+                return {x, y};
+            else
+                Union(parent, rank, x, y);
         }
         return {};
     }
