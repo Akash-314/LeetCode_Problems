@@ -9,7 +9,6 @@ public:
             } else
                 return false;
         }
-
         for (char ch = 'a'; ch <= 'z'; ch++) {
             if ((cnt[ch - 'a'] == 0) || (!grt and ch < tar[i]))
                 continue;
