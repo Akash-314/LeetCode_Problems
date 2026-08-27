@@ -40,7 +40,7 @@ public:
             }
         }
         int cntC = 0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // to find connected component 
             if (par[i] == i)
                 cntC++;
         }
