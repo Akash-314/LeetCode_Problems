@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Akash-314/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Akash-314/LeetCode_Problems/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/0133-clone-graph) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/Akash-314/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/Akash-314/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akash-314/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
