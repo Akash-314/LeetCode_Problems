@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash-314/LeetCode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
