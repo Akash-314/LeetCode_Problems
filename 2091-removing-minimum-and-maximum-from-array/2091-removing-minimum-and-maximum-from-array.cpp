@@ -14,12 +14,9 @@ public:
             }
         }
         int ans = INT_MAX;
-        if(mx==mn) ans=min(y+1,n-y);
-        else{
             ans=min(ans,max(y,x)+1);
             ans=min(ans,n-min(y,x));
             ans=min(ans,min(y,x)+1+n-max(y,x));
-        }
         return ans;
     }
 };
