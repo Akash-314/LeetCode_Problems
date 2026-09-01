@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Akash-314/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash-314/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Akash-314/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Akash-314/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/Akash-314/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash-314/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Akash-314/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash-314/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/Akash-314/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
