@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Akash-314/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Akash-314/LeetCode_Problems/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
