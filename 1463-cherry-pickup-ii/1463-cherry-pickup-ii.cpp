@@ -11,7 +11,8 @@ public:
             else
                 return grid[i][j1] + grid[i][j2];
         }
-        if(dp[i][j1][j2] != -1) return dp[i][j1][j2];
+        if (dp[i][j1][j2] != -1)
+            return dp[i][j1][j2];
         int maxi = 0;
         for (int x = -1; x <= 1; x++) {
             for (int y = -1; y <= 1; y++) {
