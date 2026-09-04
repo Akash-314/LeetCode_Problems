@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akash-314/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1463-cherry-pickup-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akash-314/LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akash-314/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
+| [1463-cherry-pickup-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Akash-314/LeetCode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1872-stone-game-viii) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1463-cherry-pickup-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1463-cherry-pickup-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-314/LeetCode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
