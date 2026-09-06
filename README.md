@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Akash-314/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Akash-314/LeetCode_Problems/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Akash-314/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Akash-314/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Akash-314/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Akash-314/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash-314/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
