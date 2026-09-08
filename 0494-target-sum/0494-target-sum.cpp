@@ -1,10 +1,10 @@
 class Solution {
 public:
-    unordered_map<long long, int> dp[21];
+    unordered_map<int,unordered_map<long long, int>> dp;
     int f(vector<int>& nums, int t, int i) {
         if (i < 0)
             return t == 0;
-        if (dp[i].count(t))
+        if (dp.count(i) && dp[i].count(t))
             return dp[i][t];
         int way1 = f(nums, t + nums[i], i - 1);
         int way2 = f(nums, t - nums[i], i - 1);
