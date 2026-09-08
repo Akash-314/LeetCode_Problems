@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Akash-314/LeetCode_Problems/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -494,8 +497,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
