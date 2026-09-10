@@ -1,21 +1,16 @@
 class Solution {
 public:
     int ans = 0;
-    int cnt(TreeNode* root) {
+    pair<int, int> f(TreeNode* root) {
         if (!root)
-            return 0;
-        return 1 + cnt(root->left) + cnt(root->right);
-    }
-    int f(TreeNode* root) {
-        if (!root)
-            return 0;
-        int left = f(root->left);
-        int right = f(root->right);
-        int nc = cnt(root);
-        int sum = left + right + root->val;
-        if (sum / nc == root->val)
+            return {0, 0};
+        auto [lSum, lCnt] = f(root->left);
+        auto [RSum, RCnt] = f(root->right);
+        int sum = lSum + RSum + root->val;
+        int cnt = 1 + lCnt + RCnt;
+        if (sum / cnt == root->val)
             ans++;
-        return sum;
+        return {sum, cnt};
     }
     int averageOfSubtree(TreeNode* root) {
         f(root);
