@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Akash-314/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/Akash-314/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Akash-314/LeetCode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Akash-314/LeetCode_Problems/tree/master/0915-partition-array-into-disjoint-intervals) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Akash-314/LeetCode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
+| [0735-asteroid-collision](https://github.com/Akash-314/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Design
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Akash-314/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-314/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
