@@ -1,7 +1,7 @@
 class Solution {
 public:
     int m = 1e9 + 7;
-#define ll long long
+    #define ll long long
     // int f(int n, int k, int i){
     //     if(i >= n) return 0;
     //     if(k == 0) return 1;
