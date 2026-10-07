@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akash-314/LeetCode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Akash-314/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [1096-brace-expansion-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Akash-314/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Akash-314/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akash-314/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akash-314/LeetCode_Problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Akash-314/LeetCode_Problems/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
