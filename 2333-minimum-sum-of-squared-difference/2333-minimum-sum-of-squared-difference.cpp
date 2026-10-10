@@ -9,34 +9,34 @@ public:
         }
         sort(diff.rbegin(), diff.rend());
 
-        ll low = 0, high = 1e14;
-        ll limit = 0;
+        ll l = 0, r = 1e14;
+        ll lim = 0;
         auto check = [&](ll mid) {
-            ll currK = k1 + k2;
+            ll curr = k1 + k2;
             for (int i = 0; i < n; i++) {
                 ll val = abs(nums1[i] - nums2[i]) - mid;
                 if (val > 0)
-                    currK -= val;
-                if (currK < 0)
+                    curr -= val;
+                if (curr < 0)
                     break;
             }
-            if (currK < 0)
+            if (curr < 0)
                 return false;
             else
                 return true;
         };
-        while (low <= high) {
-            ll mid = low + (high - low) / 2;
+        while (l <= r) {
+            ll mid = l + (r - l) / 2;
             if (check(mid)) {
-                high = mid - 1;
-                limit = mid;
+                r = mid - 1;
+                lim = mid;
             } else
-                low = mid + 1;
+                l = mid + 1;
         }
 
         ll k = k1 + k2;
         for (int i = 0; i < n; i++) {
-            ll val = diff[i] - limit;
+            ll val = diff[i] - lim;
             if (val > 0) {
                 diff[i] -= val;
                 k -= val;
