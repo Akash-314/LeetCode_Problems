@@ -1,7 +1,7 @@
 class Solution {
 public:
     int mod = 1e9 + 7;
-    #define ll long long
+#define ll long long
     int maxSum(vector<int>& nums, int k) {
         int n = nums.size();
         vector<int> cnt(32, 0);
