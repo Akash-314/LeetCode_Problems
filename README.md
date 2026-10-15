@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akash-314/LeetCode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
+| [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Akash-314/LeetCode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Akash-314/LeetCode_Problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akash-314/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
+| [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akash-314/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Akash-314/LeetCode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -700,4 +703,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
