@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akash-314/LeetCode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Akash-314/LeetCode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
 | [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash-314/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
