@@ -7,7 +7,6 @@ public:
             int l = 1;
             for (int j = i; j < n; j++) {
                 l = lcm(nums[j], l);
-                // cout << l << " ";
                 if (l == k)
                     ans++;
                 if (l > k)
