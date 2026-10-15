@@ -10,16 +10,12 @@ public:
             int g = __gcd(h, w);
             int p = h / g;
             int l = w / g;
-
             mp[{p, l}]++;
         }
         ll ans = 0;
-        for(auto x : mp){
-            int a = x.first.first;
-            int b = x.first.second;
-            cout<<a<<" "<<b<<endl;
+        for (auto x : mp) {
             ll cnt = x.second;
-            ans += (cnt * (cnt - 1))/2;
+            ans += (cnt * (cnt - 1)) / 2;
         }
         return ans;
     }
