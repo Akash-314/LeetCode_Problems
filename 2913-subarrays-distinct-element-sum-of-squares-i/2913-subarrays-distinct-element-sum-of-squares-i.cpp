@@ -10,7 +10,6 @@ public:
                 int s = (int)st.size();
                 ans += (s * s);
             }
-            // cout<<st.size()<<endl;
         }
         return ans;
     }
