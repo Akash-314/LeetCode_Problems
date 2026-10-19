@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash-314/LeetCode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akash-314/LeetCode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akash-314/LeetCode_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akash-314/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akash-314/LeetCode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akash-314/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash-314/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akash-314/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akash-314/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash-314/LeetCode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
