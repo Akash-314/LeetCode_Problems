@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1020-number-of-enclaves](https://github.com/Akash-314/LeetCode_Problems/tree/master/1020-number-of-enclaves) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1048-longest-string-chain](https://github.com/Akash-314/LeetCode_Problems/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Akash-314/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/Akash-314/LeetCode_Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash-314/LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Akash-314/LeetCode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Akash-314/LeetCode_Problems/tree/master/0684-redundant-connection) |
+| [1020-number-of-enclaves](https://github.com/Akash-314/LeetCode_Problems/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash-314/LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Akash-314/LeetCode_Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Akash-314/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Akash-314/LeetCode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/Akash-314/LeetCode_Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akash-314/LeetCode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/Akash-314/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/Akash-314/LeetCode_Problems/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1463-cherry-pickup-ii) |
