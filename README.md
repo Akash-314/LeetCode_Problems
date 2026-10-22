@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash-314/LeetCode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3664-two-letter-card-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-314/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akash-314/LeetCode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Akash-314/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-314/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash-314/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash-314/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akash-314/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash-314/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Akash-314/LeetCode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash-314/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash-314/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-314/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3664-two-letter-card-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash-314/LeetCode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Akash-314/LeetCode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
