@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Akash-314/LeetCode_Problems/tree/master/2029-stone-game-ix) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash-314/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash-314/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-314/LeetCode_Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Akash-314/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-314/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -731,14 +734,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Akash-314/LeetCode_Problems/tree/master/0866-prime-palindrome) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -760,4 +766,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
