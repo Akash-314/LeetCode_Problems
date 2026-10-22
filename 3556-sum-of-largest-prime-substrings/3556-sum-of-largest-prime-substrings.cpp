@@ -27,13 +27,11 @@ public:
                 a = stoll(t);
                 if (isPrime(a)) {
                     temp.insert(a);
-                    // cout << a << " ";
                 }
             }
         }
         int k = 3;
         for (auto it = temp.rbegin(); it != temp.rend(); it++) {
-            // cout << *it << " ";
             if (k == 0)
                 break;
             ans += *it;
