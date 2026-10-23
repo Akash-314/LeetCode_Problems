@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akash-314/LeetCode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akash-314/LeetCode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash-314/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akash-314/LeetCode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash-314/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Design
 |  |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Akash-314/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Akash-314/LeetCode_Problems/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash-314/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash-314/LeetCode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Matrix
 |  |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akash-314/LeetCode_Problems/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Akash-314/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akash-314/LeetCode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
