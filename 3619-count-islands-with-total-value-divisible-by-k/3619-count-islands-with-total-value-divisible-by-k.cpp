@@ -1,0 +1,31 @@
+class Solution {
+public:
+    int m, n;
+    long long dfs(vector<vector<int>>& grid, int i, int j) {
+        long long sum = 0;
+        if (i < 0 or j < 0 or i >= m or j >= n or grid[i][j] == 0) {
+            return 0;
+        }
+        sum += grid[i][j];
+        grid[i][j] = 0;
+        sum += dfs(grid, i + 1, j);
+        sum += dfs(grid, i, j + 1);
+        sum += dfs(grid, i, j - 1);
+        sum += dfs(grid, i - 1, j);
+        return sum;
+    }
+    int countIslands(vector<vector<int>>& grid, int k) {
+        m = grid.size();
+        n = grid[0].size();
+        int ans = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] != 0) {
+                    if (dfs(grid, i, j) % k == 0)
+                        ans++;
+                }
+            }
+        }
+        return ans;
+    }
+};
