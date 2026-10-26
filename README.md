@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akash-314/LeetCode_Problems/tree/master/0016-3sum-closest) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Akash-314/LeetCode_Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akash-314/LeetCode_Problems/tree/master/0016-3sum-closest) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akash-314/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Akash-314/LeetCode_Problems/tree/master/1048-longest-string-chain) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash-314/LeetCode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akash-314/LeetCode_Problems/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1048-longest-string-chain](https://github.com/Akash-314/LeetCode_Problems/tree/master/1048-longest-string-chain) |
