@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Akash-314/LeetCode_Problems/tree/master/0016-3sum-closest) |
+| [0054-spiral-matrix](https://github.com/Akash-314/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Akash-314/LeetCode_Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akash-314/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Akash-314/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Akash-314/LeetCode_Problems/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akash-314/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Akash-314/LeetCode_Problems/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Akash-314/LeetCode_Problems/tree/master/1020-number-of-enclaves) |
