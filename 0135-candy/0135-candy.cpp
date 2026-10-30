@@ -9,7 +9,6 @@ public:
             if(rate[i-1] < rate[i]){
                 left[i] = left[i-1] + 1;
             }else left[i] = 1;
-            cout<<left[i]<<endl;
         }
         for(int i = n-2; i >= 0; i--){
             if(rate[i+1] < rate[i]){
