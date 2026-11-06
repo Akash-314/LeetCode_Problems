@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akash-314/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash-314/LeetCode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2747-count-zero-request-servers](https://github.com/Akash-314/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Akash-314/LeetCode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akash-314/LeetCode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akash-314/LeetCode_Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2747-count-zero-request-servers](https://github.com/Akash-314/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Akash-314/LeetCode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash-314/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Akash-314/LeetCode_Problems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akash-314/LeetCode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Akash-314/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash-314/LeetCode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akash-314/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akash-314/LeetCode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Akash-314/LeetCode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akash-314/LeetCode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash-314/LeetCode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Rolling Hash
