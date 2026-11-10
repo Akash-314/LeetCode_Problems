@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Akash-314/LeetCode_Problems/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Akash-314/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Akash-314/LeetCode_Problems/tree/master/0120-triangle) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Akash-314/LeetCode_Problems/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Akash-314/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash-314/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Akash-314/LeetCode_Problems/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0494-target-sum) |
