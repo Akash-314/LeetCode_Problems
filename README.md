@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Akash-314/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash-314/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Akash-314/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akash-314/LeetCode_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Akash-314/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash-314/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Akash-314/LeetCode_Problems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Akash-314/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash-314/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0022-generate-parentheses) |
