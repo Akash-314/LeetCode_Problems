@@ -14,7 +14,6 @@ public:
                 dec = max(dec, temp2);
             } else
                 temp2 = 1;
-            cout<<inc<<" "<<dec<<endl;
         }
         return max(inc, dec);
     }
