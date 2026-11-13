@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akash-314/LeetCode_Problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Akash-314/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/Akash-314/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash-314/LeetCode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Akash-314/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Akash-314/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Akash-314/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Akash-314/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akash-314/LeetCode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Akash-314/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Akash-314/LeetCode_Problems/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Akash-314/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Akash-314/LeetCode_Problems/tree/master/0115-distinct-subsequences) |
