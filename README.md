@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akash-314/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Akash-314/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-314/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akash-314/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akash-314/LeetCode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akash-314/LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Akash-314/LeetCode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/Akash-314/LeetCode_Problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Akash-314/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akash-314/LeetCode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Akash-314/LeetCode_Problems/tree/master/1447-simplified-fractions) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Akash-314/LeetCode_Problems/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akash-314/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akash-314/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akash-314/LeetCode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Akash-314/LeetCode_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
